@@ -21,8 +21,8 @@ Ummm, you can, but it will need a bit of a work to make it work for you. You'll 
 Or not, I don't know, and to be honest, I do not quite remember how to setup all that. I can just help you with the .env file. 
 
 ```
-MONGODB_URL=*Your url here*
-JWT_SECRET=*Your secret token here* 
+MONGODB_URL= *Your url here*
+JWT_SECRET= *Your secret token here* 
 ```
 
 Just add the url to your mongo, and add a secret for your jwt token.
